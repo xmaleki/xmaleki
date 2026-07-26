@@ -1,6 +1,6 @@
 ## Hi there, I'm Abolfazl 👋 
 
- I’m learning more about programming. Here, I share my projects.
+I’m learning programming and building projects. I primarily use C++ and Python.
  
 ### Languages
 
